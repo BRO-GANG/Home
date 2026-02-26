@@ -1,0 +1,6 @@
+name = "bro-gang-worker"
+main = "src/index.js"
+compatibility_date = "2024-02-01"
+
+[vars]
+ENV = "production"
