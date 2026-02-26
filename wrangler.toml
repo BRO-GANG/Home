@@ -1,4 +1,4 @@
-name = "bro-gang-worker"
+name = "home"
 main = "src/index.js"
 compatibility_date = "2024-02-01"
 
